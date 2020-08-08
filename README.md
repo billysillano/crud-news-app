@@ -1,24 +1,22 @@
 # news-app
+A simple crud application created using vue.js.
 
-## Project setup
+### Technologies uses
+- Vue.js 
+- Vuex
+- Vue-router
+- Bootstrap
+- Webpack
+- LocalStorage
+
+# Project Setup for development
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
+# Build for deployment
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
