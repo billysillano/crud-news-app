@@ -16,16 +16,16 @@
 							<router-link class="nav-link" :to="{ name: 'home' }" :class="{ 'active' : $route.name === 'home'}">Home</router-link>
 						</li>
 						<li class="nav-item">
-							<a href="" class="nav-link">Business</a>
+							<a href="/" class="nav-link">Business</a>
 						</li>
 						<li class="nav-item">
-							<a href="" class="nav-link">Sports</a>
+							<a href="/" class="nav-link">Sports</a>
 						</li>
 						<li class="nav-item">
-							<a href="" class="nav-link">Entertainment</a>
+							<a href="/" class="nav-link">Entertainment</a>
 						</li>
 						<li class="nav-item">
-							<a href="" class="nav-link">Techonology</a>
+							<a href="/" class="nav-link">Techonology</a>
 						</li>
 						<li class="nav-item">
 							<router-link class="nav-link" :to="{ name: 'news-list' }" :class="{ 'active' : $route.name === 'news-list'}">Admin</router-link>
